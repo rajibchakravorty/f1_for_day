@@ -39,7 +39,7 @@ Could be improved immensely (non-existent now)
 
 #### Running the code
 
-1. Change the variable `f1_for_day` in `main.py1` to the desired weekday
+1. Change the variable `f1_for_day` in `main.py` to the desired weekday
 2. Save `main.py`
 3. Execute `main.py`
 
