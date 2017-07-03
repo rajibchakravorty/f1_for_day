@@ -4,12 +4,12 @@
 
 The data in the file MUST be in the following format
 
-
+```
 # some comment in the first list
 dates|y|yhat
 1999-11-01|0|0
 ...
-
+```
 #### Weekday specification
 
 The weekday MUST be specified by one of the following
